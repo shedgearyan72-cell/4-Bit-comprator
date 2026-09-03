@@ -59,10 +59,6 @@ CARRY = 1
 
 The circuit was tested with all four possible input combinations and verified successfully.
 
-## Circuit
-
-![Half Adder Circuit](circuit.png)
-
 ## Tool Used
 
 CircuitVerse
